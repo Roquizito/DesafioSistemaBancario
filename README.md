@@ -29,4 +29,4 @@ O projeto segue regras rígidas de parâmetros para demonstrar o poder da sintax
 2. Clone este repositório ou copie o código fonte.
 3. Execute o script principal:
    ```bash
-   python desafio.py
+   SistemaBancario.py
